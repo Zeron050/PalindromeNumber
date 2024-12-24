@@ -17,8 +17,8 @@ public class PalindromeNumber {
         PalindromeNumber solution = new PalindromeNumber();
 
         // Примеры
-        System.out.println("Число: 121 -> Вывод: " + solution.isPalindrome(121)); // true
-        System.out.println("Число: -121 -> Вывод: " + solution.isPalindrome(-121)); // false
-        System.out.println("Число: 10 -> Вывод: " + solution.isPalindrome(10)); // false
+        System.out.println("Число: 121 -> Вывод: " + solution.isPalindrome(121)); 
+        System.out.println("Число: -121 -> Вывод: " + solution.isPalindrome(-121)); 
+        System.out.println("Число: 10 -> Вывод: " + solution.isPalindrome(10)); 
     }
 }
